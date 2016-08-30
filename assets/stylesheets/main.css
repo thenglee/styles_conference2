@@ -220,6 +220,11 @@ a {
   margin: 66px 0 22px 0;
 }
 
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
+}
+
 /*
   ========================================
   Primary footer
@@ -227,12 +232,15 @@ a {
 */
 
 .primary-footer {
+  color: #648880;
+  font-size: 14px;
   padding-bottom: 44px;
   padding-top: 44px;
 }
 
 .primary-footer small {
   float: left;
+  font-weight: 400;
 }
 
 /*
