@@ -261,3 +261,7 @@ a {
 .hero p {
   font-size: 24px;
 }
+
+.teaser a:hover h3 {
+  color: #a9b3b9;
+}
