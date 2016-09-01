@@ -361,6 +361,13 @@ p a {
   color: #a9b3b9;
 }
 
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 100%;
+}
+
 /*
   ========================================
   Speakers
